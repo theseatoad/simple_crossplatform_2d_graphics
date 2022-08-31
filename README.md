@@ -1,6 +1,6 @@
 # Simple crossplatform 2d graphics
 
-![Alt text](url ./final.png)
+![Final image](./final.png)
 
 A demonstration of using wgpu to render an image to the display.
 
